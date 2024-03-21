@@ -17,7 +17,7 @@ AcademicLife is an e-learning platform designed to offer a wide range of courses
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AcademicLife.git
+git clone https://github.com/wajdi-khelifi/AcademicLife.git
 cd AcademicLife
 ```
 2. Set up a Python virtual environment and activate it:
@@ -37,4 +37,3 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-
